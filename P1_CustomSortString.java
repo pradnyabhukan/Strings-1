@@ -1,4 +1,4 @@
-// TC: O()
+// TC: O(n) ; n = length of s + length of o
 // SC: O(1)
 class Solution {
     public String customSortString(String order, String s) {
